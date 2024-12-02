@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olimpiade: Lebih dari Sekedar Kompetisi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f1f1f1;
+            color: #333;
+        }
+        .poster-container {
+            width: 100%;
+            height: 100vh;
+            background-image: url('https://example.com/olympic-bg.jpg'); /* Ganti dengan URL gambar latar belakang */
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .main-text {
+            font-size: 1.5rem;
+            margin-bottom: 40px;
+            max-width: 800px;
+        }
+        .points {
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+        }
+        .point {
+            margin: 10px 0;
+        }
+        .slogan {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        footer {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="poster-container">
+        <h1>Olimpiade: Lebih dari Sekedar Kompetisi, Sebuah Ajaran Global - Olimpisme!</h1>
+        <p class="main-text">Olimpiade lebih dari sekadar ajang kompetisi olahraga. Olimpiade adalah sebuah paham dan filosofi hidup yang mengajarkan kita tentang persatuan, kedamaian, dan saling menghormati.</p>
+        
+        <div class="points">
+            <div class="point">1. <strong>Persatuan Tanpa Batas:</strong> Olimpiade menyatukan berbagai negara, budaya, dan tradisi dalam satu tujuan mulia: merayakan keberagaman dan semangat sportivitas.</div>
+            <div class="point">2. <strong>Olimpisme - Sebuah Isme Dunia:</strong> Konsep Olimpisme lahir dari keyakinan bahwa olahraga dapat membawa perdamaian dan harmoni antara bangsa-bangsa.</div>
+            <div class="point">3. <strong>Keadilan dan Kesetaraan:</strong> Olimpiade mengajarkan tentang kesetaraan, memberikan kesempatan yang sama bagi setiap atlet.</div>
+            <div class="point">4. <strong>Semangat Fair Play dan Kejujuran:</strong> Dalam Olimpiade, kemenangan bukan hanya tentang hasil, tetapi juga tentang semangat fair play dan menghargai lawan.</div>
+            <div class="point">5. <strong>Globalisasi dan Pengaruhnya:</strong> Olimpiade menjadi platform global untuk menunjukkan kekuatan terbaik dan mempromosikan budaya damai antar bangsa.</div>
+        </div>
+
+        <p class="slogan">Olimpiade: Menghubungkan Dunia, Merayakan Persatuan, Menumbuhkan Semangat!</p>
+
+        <footer>
+            <p>Follow us on <a href="https://www.instagram.com/olympics" target="_blank">Instagram</a> for more updates!</p>
+        </footer>
+    </div>
+</body>
+</html>
